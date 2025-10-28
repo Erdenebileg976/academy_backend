@@ -4,7 +4,7 @@ const blogs = [];
 
 const addBtnFunc = () => {
   const titleElement = document.getElementById("title");
-  const contentElement = document.getElementById("content");
+  const contentElement = document.getElementById("content");åççç
   const listElement = document.getElementById("posts");
 
   const title = titleElement.value;
